@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="kurs">Про курс</string>
+    <string name="princip">Принципи тестування</string>
+    <string name="teory">Теорія</string>
+    <string name="soft">SDLC</string>
+    <string name="Requirements">Requiments</string>
+    <string name="UML">UML</string>
+    <string name="Cases">Test Cases</string>
+    <string name="modul">Перевірка знань</string>
+    <string name="modul1">SDLC</string>
+    <string name="modul2">Requiments</string>
+    <string name="modul3">UML</string>
+    <string name="modul4">Test Cases</string>
+    <string name="lastmodul">General modul</string>
+
+
+</resources>
